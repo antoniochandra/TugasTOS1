@@ -1,4 +1,4 @@
-1  git clone <http://www.github.com/antoniochandra/TOS1.git>
+   1  git clone <http://www.github.com/antoniochandra/TOS1.git>
     2  git clone https://github.com/antoniochandra/TOS1.git
     3  sudo apt install git
     4  sudo apt-get install git
@@ -284,3 +284,13 @@
   284  sed 's/love/hate/g' tugas.txt
   285  watch lsusb
   286  history
+  287  lshw
+  288  lshw -C network
+  289  dmidecode --type memory
+  290  uptime
+  291  aplay donw.wav
+  292  arecord -f cd -t raw | lame -x -r – out.mp3 
+  293  history
+  294  cal 4 2016
+  295  bc
+  296  history
