@@ -1,0 +1,181 @@
+ 1  git clone <http://www.github.com/antoniochandra/TOS1.git>
+    2  git clone https://github.com/antoniochandra/TOS1.git
+    3  sudo apt install git
+    4  sudo apt-get install git
+    5  sudo apt install git
+    6  sudo apt-get install build-essential libssl-dev libcurl4-gnutls-dev libexpat1-dev gettext unzip
+    7  yum install curl-devel expat-devel gettext-devel   openssl-devel zlib-devel
+    8  apt-get install git
+    9  yes
+   10  apt-get install git
+   11  sudo apt-get update
+   12  E
+   13  y
+   14  yes
+   15  apt-get install git
+   16  y
+   17  'y'
+   18  sudo apt-get install ubuntu-restricted-extras
+   19  sudo lsof /var/lib/dpkg/lock
+   20  sudo kill -TERM 3010
+   21  sudo apt-get install git
+   22  git clone https://github.com/antoniochandra/TOS1.git
+   23  ls
+   24  cd
+   25  pwd
+   26  mkdir
+   27  rmdir
+   28  --help
+   29  vim
+   30  nano
+   31  cp
+   32  mv
+   33  stat
+   34  lsttr
+   35  locate
+   36  echo halo
+   37  pwd /usr/bin
+   38  cd path
+   39  cd
+   40  cd /
+   41  ls
+   42  ls -a
+   43  mkdir directoryName
+   44  cd ~
+   45  mkdir docs
+   46  mkdir bin
+   47  ls
+   48  mkdir docs/junk
+   49  ls -al docs
+   50  rmdir docs/junk
+   51  cd
+   52  cd docs
+   53  mkdir practicel
+   54  ls
+   55  cp /etc/passwd practicel
+   56  cd practicel
+   57  ls
+   58  cp /etc/group
+   59  ls
+   60  cp /etc/passwd passwd.dup
+   61  ls
+   62  cd ~/docs
+   63  ls
+   64  cp -r practicel practice2
+   65  cp file1 file2
+   66  cp -u *.html destination
+   67  touch test1
+   68  ls -il test1
+   69  cp test1 test2
+   70  ls -il
+   71  cp test1 test2
+   72  overwirte 'test2'? y
+   73  overwrite 'test2'?y
+   74  cp -R dir1 dir2
+   75  -a
+   76  grep -i "the" file_demo
+   77  -A 3 -i "contoh" text_demo
+   78  grep -A 3 -i "contoh" text_demo
+   79  list
+   80  ls
+   81  ls recrusively
+   82  ls -r
+   83  ls -a
+   84  ls -i
+   85  pwd
+   86  git clone --bare https://external-host.com/extuser/repo.githttps://github.com/antoniochandra/TOS1.git
+   87  git clone --bare https://github.com/antoniochandra/TOS1.git
+   88  ls
+   89  ls -a
+   90  ls -i
+   91  ls -r
+   92  pwd
+   93  cd /home/antonio
+   94  cd
+   95  cd ..
+   96  cd -
+   97  cp file1 file2
+   98  rm -r file1
+   99  git config --global user.name "antoniochandra"
+  100  nano test1.txt
+  101  ls README.md
+  102  got config--global user.name "antoniochandra"
+  103  git config--global user.name "antoniochandra"
+  104  git config --global user.name "antoniochandra"
+  105  git config --global user.email "m26415171@john.petra.ac.id"
+  106  ls
+  107  clear
+  108  ls
+  109  mkdir gittest
+  110  ls
+  111  mkdir Coba1
+  112  ls
+  113  cd Coba1/
+  114  ls
+  115  echo "# Coba1 " >> README.md
+  116  git ini
+  117  git init
+  118  git add README.md
+  119  git commit -m "first commit"
+  120  clear
+  121  ls README.md
+  122  nano abc.txt
+  123  ls abc.txt README.md
+  124  git add abc.txt
+  125  commit -m "i added abc.txt"
+  126  git commit -m "i added abc.txt"
+  127  git remote add origin https://github.com/antoniochandra/TOS1.git
+  128  git push -u origin master
+  129  git add abc.txt
+  130  ls
+  131  /clear
+  132  clear
+  133  ls
+  134  abc.txt
+  135  clear
+  136  git config --global user.name "antoniochandra"
+  137  git config --global user.name antoniochandra
+  138  git config --global user.email "m26415171@john.petra.ac.id"
+  139  cd folder-project
+  140  git init
+  141  git add .
+  142  git commit -m "first commit"
+  143  git remote add origin https://github.com/antoniochandra/TOS1.git
+  144  git push origin master
+  145  git clone https://github.com/antoniochandra/TOS1.git
+  146  git add abc.txt
+  147  clear
+  148  echo "# TugasTOS1" >> README.md
+  149  git init
+  150  git add README.md
+  151  git commit -m "first commit"
+  152  git remote add origin https://github.com/antoniochandra/TugasTOS1.git
+  153  git push -u origin master
+  154  git remote add origin https://github.com/antoniochandra/TugasTOS1.git
+  155  git add abc.txt
+  156  clear
+  157  git config --global user.name "antoniochandra"
+  158  git config --global user.email "m26415171@john.petra.ac.id"
+  159  cd
+  160  clear
+  161  ls
+  162  mkdir TugasTos
+  163  ls
+  164  cd TugasTos
+  165  ls
+  166  echo "# TugasTOS1" >> README.md
+  167  git init
+  168  git add README.md
+  169  git commit -m "first commit"
+  170  git remote add origin https://github.com/antoniochandra/TugasTOS1.git
+  171  git push -u origin master
+  172  ls README.md
+  173  clear
+  174  ls
+  175  nano abc.txt
+  176  ls
+  177  git add abc.txt
+  178  git commit -m "i add abc.txt"
+  179  git remote add origin https://github.com/antoniochandra/TugasTOS1.git 
+  180  git push -u origin master
+  181  history
